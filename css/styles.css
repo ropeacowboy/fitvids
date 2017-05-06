@@ -1,0 +1,10 @@
+/* Styling */
+body {
+    background: rgba(0, 240, 194, 0.71);
+}
+
+/* styles.css */
+iframe {
+  max-width: 100%;
+  width: 100%;
+}
